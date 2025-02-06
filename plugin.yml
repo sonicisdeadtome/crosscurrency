@@ -1,0 +1,6 @@
+name: DiscordChatLink
+version: 1.0
+main: com.DiscordChatLink.discordchat.DiscordChat
+author: Drew aka sonicisdeadtome
+description: Sends Minecraft chat messages to Discord channel via webhook.
+api-version: 1.16
