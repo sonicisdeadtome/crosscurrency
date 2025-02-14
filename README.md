@@ -8,3 +8,6 @@ The CC plugin is hosted entirely through your minecraft server enabling a simpli
 • Currency values JSON Storage
 • Commands (MC & Discord)
 • User authentication 
+
+FOR WIKI INFO VISIT
+https://wiki.nucleonetworks.co
