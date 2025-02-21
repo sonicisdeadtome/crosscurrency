@@ -11,3 +11,4 @@ The CC plugin is hosted entirely through your minecraft server enabling a simpli
 
 FOR WIKI INFO VISIT
 https://wiki.nucleonetworks.co
+LIST OF SERVERS USING CROSS CURRENCY
